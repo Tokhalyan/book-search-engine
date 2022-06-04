@@ -17,14 +17,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tokhalyan/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/Tokhalyan/book-search-engine#readme",
   "dependencies": {
     "if-env": "^1.0.4"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0"
-  },
-  "bugs": {
-    "url": "https://github.com/Tokhalyan/book-search-engine/issues"
-  },
-  "homepage": "https://github.com/Tokhalyan/book-search-engine#readme"
+    "concurrently": "^7.2.1"
+  }
 }
