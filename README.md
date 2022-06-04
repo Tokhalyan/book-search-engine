@@ -25,4 +25,4 @@ Book Search Engine is a web application that allows users to search for books by
 Made with ❤️ by Shahen Tokhalyan
 
 ## Screenshots
-![Screenshot](./assets/img/Screenshot.png)
+![Screenshot](./client/assets/img/Screenshot.png)
